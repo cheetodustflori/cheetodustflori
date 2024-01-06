@@ -1,7 +1,6 @@
 ### ![Header](./github-header-image.png)
 ### Hi there 👋, my name is Florianne Che
 #### I am CS student @ UIC
-![I am CS student @ UIC](![Header](./github-header-image.png))
 
 I love learning and teaching! My past experiences and projects include volunteer tutoring & building educational resources. Right now I am working on an AI Directory website designed to provide students with learning and homework resources. 
 
