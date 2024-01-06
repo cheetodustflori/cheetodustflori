@@ -11,7 +11,12 @@ Skills: JAVA / PYTHON / SWIFT / C++ / JS / HTML / CSS
 - 🤔 I’m looking for help with CSS Styling 
 - ⚡ Fun fact: I am reading Calling a Wolf a Wolf by Kaveh Akbar 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cheetodustflori)](https://github.com/ryo-ma/github-profile-trophy)
+![My Skills]
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=cheetodustflori)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,java,js,vscode,discord" />
+  </a>
+</p>
 
+[![PR welcome issues still open](https://badgen.net/https/pr-welcome-badge.vercel.app/api/badge/fastify/help)](https://github.com/sinchang/pr-welcome-badge)
