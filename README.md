@@ -11,7 +11,7 @@ Skills: JAVA / PYTHON / SWIFT / C++ / JS / HTML / CSS
 - 🤔 I’m looking for help with CSS Styling 
 - ⚡ Fun fact: I am reading Calling a Wolf a Wolf by Kaveh Akbar 
 
-My Skills
+## My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
