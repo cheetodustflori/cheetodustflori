@@ -7,7 +7,7 @@ I love learning and teaching! My past experiences and projects include volunteer
 - 🌨️₊˚ I’m currently working on Student AI Hub 
 - 🎧. ˚ I’m currently learning C & C++ 
 - 🩵.* I’m looking for help with CSS Styling 
-- 🎐✩｡ Fun fact: I am reading Calling a Wolf a Wolf by Kaveh Akbar 
+- 🎐✩｡ Fun fact: I am reading Calling a Wolf a Wolf by Kaveh Akbar
 
 ### Skills & Tools: JAVA / PYTHON / SWIFT / C++ / JS / HTML / CSS / VSCODE / ASTRO / DISCORD
 
