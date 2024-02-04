@@ -9,11 +9,11 @@ I love learning and teaching! My past experiences and projects include volunteer
 - 🩵.*  I’m looking for help with CSS Styling 
 - 🎐✩｡  Fun fact: I am reading Calling a Wolf a Wolf by Kaveh Akbar
 
-### Skills & Tools: JAVA / PYTHON / SWIFT / C++ / JS / HTML / CSS / VSCODE / ASTRO / DISCORD
+### Skills & Tools: JAVA / PYTHON / SWIFT / C / C++ / VSCODE 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,swift,cpp,js,html,css,vscode,astro,discord" />
+    <img src="https://skillicons.dev/icons?i=java,py,swift,c,cpp,vscode" />
   </a>
 </p>
 
