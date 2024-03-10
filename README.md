@@ -1,5 +1,5 @@
 ### ![Header](./github-header-image.png)
-### Hi there ✩°🌊⋆⸜ 🎧✮🫧 my name is Florianne Che
+### Hi there ✩🌊⋆⸜ 🎧✮ my name is Florianne Che
 #### CS major @ UIC | Minors in Finance & Chinese
 
 I love learning and teaching! My past experiences and projects include volunteer tutoring & building educational resources, including the app I am building for the Leaf Project to enhance financial literacy for women. Right now I am working on an AI Directory website designed to provide students with learning and homework resources. When I'm not programming, I love to read, write poetry, train for my upcoming half-marathon, and draw comics! I am so excited to be another addition to the community of women in tech. 
