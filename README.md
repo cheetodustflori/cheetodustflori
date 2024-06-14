@@ -2,18 +2,17 @@
 ### Hi there ✩🌊⋆⸜ 🎧✮ my name is Florianne Che
 #### CS major @ UIC | Minors in Finance & Chinese
 
-I love learning and teaching! My past experiences and projects include volunteer tutoring & building educational resources, including the app I am building for the Leaf Project to enhance financial literacy for women. Right now I am working on an AI Directory website designed to provide students with learning and homework resources. When I'm not programming, I love to read, run, and draw comics! I am so excited to be another addition to the community of women in tech. 
+I love learning and teaching! My past experiences and projects include volunteer tutoring & building educational resources, including the app I am building for the Leaf Project to enhance financial literacy for women. Right now I am working on my personal website to develop my web design skills and showcase my various projects. When I'm not programming, I love to read classic literature, run, and draw comics! I am so excited to be another addition to the community of women in tech. 
 
-- 🌨️₊˚  I’m currently working on Student AI Hub 
-- 🎧. ˚ I’m currently learning C & C++ 
-- 🩵.*  I’m looking for help with CSS Styling 
-- 🎐✩｡  Fun fact: I am reading Calling a Wolf a Wolf by Kaveh Akbar
+- 🌨️₊˚  I’m working on building my personal website
+- 🎧. ˚ I’m currently learning CSS and HTML
+- 🎐✩｡  Fun fact: I'm reading Vilette by Charlotte Bronte
 
-### Skills & Tools: JAVA / PYTHON / SWIFT / C / C++ / VSCODE 
+### Skills & Tools: C / C++ / JAVA / SWIFT / PYTHON
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,swift,c,cpp,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,swift,py" />
   </a>
 </p>
 
