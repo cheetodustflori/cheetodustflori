@@ -8,11 +8,11 @@ I love learning and teaching! My past experiences and projects include volunteer
 - 🎧 I’m currently learning CSS and HTML
 - 🎐 Fun fact: I'm reading Vilette by Charlotte Bronte
 
-### Skills & Tools: C / C++ / JAVA / SWIFT / PYTHON
+### Skills & Tools: C / C++ / JAVA / SWIFT
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,swift,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,swift" />
   </a>
 </p>
 
