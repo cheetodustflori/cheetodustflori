@@ -16,8 +16,7 @@ These experiences have given exposed to the world of human-centered design and r
 
 When I'm not programming, I love to read classic literature, run, and draw comics! I am so excited to be another addition to the community of women in tech. 
 
-- 🌨️ I’m working on building my personal website
-- 🎧 I’m currently learning Javascript
+- 🎧 I’m currently learning React.js to build websites
 - 🎐 Fun fact: I'm reading The Grapes of Wrath by John Steinbeck
 
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
