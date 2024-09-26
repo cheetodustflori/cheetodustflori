@@ -1,7 +1,7 @@
 ### ![Header](./github-header-image.png)
-## Hi there ✩ 🌊
-## My name is Florianne Che
-## Web Dev & Mobile Dev
+# Hi there ✩ 🌊
+# My name is Florianne Che
+# Web Dev & Mobile Dev
 
 I love designing, learning, and building meaningful technology! My past experiences and projects include volunteer tutoring & building educational resources, including the app I am building for the Leaf Project to enhance financial literacy for women. 
 
