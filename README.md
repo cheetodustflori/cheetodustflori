@@ -1,5 +1,5 @@
 ### ![Header](./github-header-image.png)
-### Welcome ✩ 🌊 My name is Florianne Che
+### Hi there! ✩ 🌊 My name is Florianne Che
 I love designing, learning, and building meaningful technology! This past May I interned with the UIC Innovation Center to solve the problem-statement of collecting rural healthcare patients' feedback. My group of five interns led the research, ideation, and prototyping process to build a Figma-mockup of a survey and data analysis dashboard. 
 
 After that, I spent the summer as a student researching with the Learning Sciences Research Institute as a web developer for their teacher authoring tool. 
