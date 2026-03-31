@@ -1,12 +1,13 @@
 <p align="center">
-  Hi there! ✩ 🌊 My name is Florianne Che
+  <b>Hi there! ✩ 🌊 My name is Florianne Che</b>
 </p>
 
+### ABOUT
 - 📓 Studying CS @ Univ. at Illinois in Chicago
 - 🖥️ Web Development | Leadership | Design
 - 📷 React, JS, Python
 
-### Projects
+### PROJECTS
 
 🫐 DESIGN: 
 * I've contributed to the ideation and prototyping process to build a Figma-mockups for a rural healthcare initiative
