@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi there! ✩ 🌊 My name is Florianne Che</b>
+  <b>Hi there! ✩ 🌊 <br/>I'm Florianne Che</b>
 </h1>
 
 ### ABOUT
