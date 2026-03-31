@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <b>Hi there! ✩ 🌊 My name is Florianne Che</b>
-</p>
+</h1>
 
 ### ABOUT
 - 📓 Studying CS @ Univ. at Illinois in Chicago
